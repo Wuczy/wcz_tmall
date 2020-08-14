@@ -1,13 +1,13 @@
 
-n Web:TableHeaderHasIdOrScopeCheck$";Add either an 'id' or a 'scope' attribute to this <th> tag.(„–¤8Ú¯åï½.
-OWeb:TableWithoutCaptionCheck" Add a description to this table.(Ï»…ä8Ú¯åï½.
-OWeb:TableWithoutCaptionCheckE" Add a description to this table.(à×§8Ú¯åï½.
-A	Web:S5256E"%Add "<th>" headers to this "<table>".(à×§8Ú¯åï½.
-s Web:TableHeaderHasIdOrScopeCheck#";Add either an 'id' or a 'scope' attribute to this <th> tag.(î¯ªÿÿÿÿÿ8Ú¯åï½.
-s Web:TableHeaderHasIdOrScopeCheck&";Add either an 'id' or a 'scope' attribute to this <th> tag.(âş¿ßúÿÿÿÿ8Ú¯åï½.
+A	Web:S5256C"%Add "<th>" headers to this "<table>".(à×§8Ú¯åï½.
 m Web:TableHeaderHasIdOrScopeCheck'";Add either an 'id' or a 'scope' attribute to this <th> tag.(—†Óc8Ú¯åï½.
+s Web:TableHeaderHasIdOrScopeCheck&";Add either an 'id' or a 'scope' attribute to this <th> tag.(âş¿ßúÿÿÿÿ8Ú¯åï½.
+OWeb:TableWithoutCaptionCheck" Add a description to this table.(Ï»…ä8Ú¯åï½.
+J	Web:S1827O")Remove this deprecated "align" attribute.(»¡å¬ıÿÿÿÿ8Ú¯åï½.
+NWeb:ImgWithoutAltCheck."%Add an "alt" attribute to this image.(Ø¾ß8Ú¯åï½.
 s Web:TableHeaderHasIdOrScopeCheck!";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ÿ÷¸şıÿÿÿÿ8Ú¯åï½.
+OWeb:TableWithoutCaptionCheckC" Add a description to this table.(à×§8Ú¯åï½.
 n Web:TableHeaderHasIdOrScopeCheck%";Add either an 'id' or a 'scope' attribute to this <th> tag.(—ìÃ8Ú¯åï½.
-NWeb:ImgWithoutAltCheck/"%Add an "alt" attribute to this image.(Ø¾ß8Ú¯åï½.
+s Web:TableHeaderHasIdOrScopeCheck#";Add either an 'id' or a 'scope' attribute to this <th> tag.(î¯ªÿÿÿÿÿ8Ú¯åï½.
+n Web:TableHeaderHasIdOrScopeCheck$";Add either an 'id' or a 'scope' attribute to this <th> tag.(„–¤8Ú¯åï½.
 n Web:TableHeaderHasIdOrScopeCheck"";Add either an 'id' or a 'scope' attribute to this <th> tag.(¿ÀÔÅ8Ú¯åï½.
-J	Web:S1827Q")Remove this deprecated "align" attribute.(»¡å¬ıÿÿÿÿ8Ú¯åï½.

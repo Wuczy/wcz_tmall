@@ -29,3 +29,7 @@ i
 9src/main/webapp/WEB-INF/jsp/include/admin/adminFooter.jsp,f\8\f8f44445250fa18bcf2f3d5620e59fadb7d0db1f
 Z
 *src/main/java/com/wcz/tmall/util/Page.java,a\3\a3da41f211f51dcb378ad1ed490683b46eb411d2
+g
+7src/main/java/com/wcz/tmall/util/UploadedImageFile.java,2\5\25d088069ed9e0a6b5b749e1f48b5f6e2f8ee79e
+_
+/src/main/java/com/wcz/tmall/util/ImageUtil.java,a\f\afc44e79263a224a07d25a91a35abfa14a1b27c5

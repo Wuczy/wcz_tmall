@@ -1,5 +1,4 @@
 
-~squid:S00115
-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ú£Ïûÿÿÿÿ8•‚¡À¾.
-_squid:S1126#"AReplace this if-then-else statement by a single return statement.(“¾ÿŞ8•‚¡À¾.
-dsquid:S1126("AReplace this if-then-else statement by a single return statement.(ÄÇÿ¶üÿÿÿÿ8•‚¡À¾.
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ö®ÿÿÿÿÿ8•‚¡À¾.
+dsquid:S11269"AReplace this if-then-else statement by a single return statement.(ÄÇÿ¶üÿÿÿÿ8­„ô×¾.
+_squid:S11264"AReplace this if-then-else statement by a single return statement.(“¾ÿŞ8­„ô×¾.

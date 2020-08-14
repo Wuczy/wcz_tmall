@@ -1,6 +1,11 @@
 
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ8ĞÊÔ¿¾.
-\squid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(”»¬ì8Óşï½.
 V
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ô÷è8–œÖ¿¾.
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Ô÷è8–œÖ¿¾.
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ8ĞÊÔ¿¾.
+\squid:S37522">Add a "method" parameter to this "@RequestMapping" annotation.(±µÄ8¾ÊÂØ¾.
+\squid:S3752B">Add a "method" parameter to this "@RequestMapping" annotation.(óÓƒ°8õÜïÙ¾.
+\squid:S3752 ">Add a "method" parameter to this "@RequestMapping" annotation.(”»¬ì8Óşï½.
+lsquid:S4042G"IUse "java.nio.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8ø’ëÚ¾.
+]
+squid:S899G";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8ø’ëÚ¾.
