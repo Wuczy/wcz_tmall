@@ -1,0 +1,10 @@
+
+|squid:S1192B"^Define a constant instead of duplicating this literal "redirect:/admin_category_list" 3 times.(Ï¬Ûö8Ş‡¢İ¾.
+lsquid:S4042J"IUse "java.nio.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8ø’ëÚ¾.
+©%squid:RedundantThrowsDeclarationCheckT"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ªòí¯úÿÿÿÿ8¸¡İ¾.
+nsquid:S3252&"PUse static access with "com.github.pagehelper.page.PageMethod" for "offsetPage".(Ä§°›8†——Ş¾.
+]
+squid:S899J";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8ø’ëÚ¾.
+nsquid:S3252k"PUse static access with "com.github.pagehelper.page.PageMethod" for "offsetPage".(Ä§°›8è“¿¶À.
+ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.web.bind.annotation.RestController'.(±íş¡şÿÿÿÿ8ää§ÌÂ.
+psquid:S11928"MDefine a constant instead of duplicating this literal "img/category" 3 times.(æÁšğüÿÿÿÿ8–¬µİ¾.

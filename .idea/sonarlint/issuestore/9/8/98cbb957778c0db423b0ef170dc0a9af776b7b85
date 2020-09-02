@@ -1,0 +1,7 @@
+
+nsquid:S32526"PUse static access with "com.github.pagehelper.page.PageMethod" for "offsetPage".(Ä§°›8ä¥‡¥À.
+Rsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÇóÃ8ä¥‡¥À.
+wsquid:UselessImportCheck"MRemove this unused import 'com.sun.org.apache.xpath.internal.operations.Mod'.(ÇóÃ8ä¥‡¥À.
+nsquid:S3252"PUse static access with "com.github.pagehelper.page.PageMethod" for "offsetPage".(Ä§°›8úÉ¹£À.
+\squid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ö½ÄŸ8Ú¬µ£À.
+\squid:S37524">Add a "method" parameter to this "@RequestMapping" annotation.(©°É8é•Ä¤À.

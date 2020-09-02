@@ -1,0 +1,6 @@
+
+nsquid:S3252 "PUse static access with "com.github.pagehelper.page.PageMethod" for "offsetPage".(Ä§°›8¿ÛÏ¶¿.
+„squid:S11921"aDefine a constant instead of duplicating this literal "redirect:admin_product_list?cid=" 3 times.(¯ù©›ýÿÿÿÿ8”†™¼¿.
+nsquid:S3252M"PUse static access with "com.github.pagehelper.page.PageMethod" for "offsetPage".(Ä§°›8»™å¶À.
+lsquid:UselessImportCheck"<Remove this unused import 'com.wcz.tmall.pojo.ProductImage'.(°˜êùÿÿÿÿ8àžå¿.
+ksquid:UselessImportCheck"@Remove this unused import 'org.apache.ibatis.annotations.Param'.(á¬Ó²8ôŸ”·À.

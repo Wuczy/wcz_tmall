@@ -1,0 +1,36 @@
+package com.wcz.tmall.pojo;
+
+ /**
+  * @Date:2020-08-16 21:49
+  * @author:ChengZhi.Wu9299
+  * @Description:产品图片实体类
+  */
+public class ProductImage {
+    private Integer id;
+    private Integer pid;
+    private String type;
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public Integer getPid() {
+        return pid;
+    }
+
+    public void setPid(Integer pid) {
+        this.pid = pid;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type == null ? null : type.trim();
+    }
+}

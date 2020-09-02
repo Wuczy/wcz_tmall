@@ -1,0 +1,7 @@
+
+\squid:S3752#">Add a "method" parameter to this "@RequestMapping" annotation.(ô¼ÍÃ8ü ÅÀ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûäÎ¸úÿÿÿÿ8óª„À.
+usquid:UselessImportCheck"ERemove this unused import 'com.wcz.tmall.mapper.PropertyValueMapper'.(êöÎœøÿÿÿÿ8æ¼ÃŒÀ.
+ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.web.bind.annotation.RestController'.(±íş¡şÿÿÿÿ8Ëº»À.
+\squid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(Ğ»§š8ü ÅÀ.

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wcz.tmall.mapper.OrderItemMapper">
+    <select id="list" resultType="OrderItem">
+        select * from orderitem order by id desc
+    </select>
+
+    <select id="getById" parameterType="int" resultType="OrderItem">
+        select * from orderitem where id = #{id}
+    </select>
+
+    <select id="getByOid" parameterType="int" resultType="OrderItem">
+        select * from orderitem where oid = #{oid}
+    </select>
+
+    <delete id="delete" parameterType="int" >
+        delete from orderitem where id = #{id}
+    </delete>
+
+    <insert id="add" parameterType="OrderItem" keyProperty="id" useGeneratedKeys="true">
+        insert into orderitem (pid, oid, uid, number) values (#{pid},#{oid},#{uid},#{number})
+    </insert>
+
+    <update id="update" parameterType="OrderItem">
+        update orderitem set pid = #{pid},
+                             oid = #{oid},
+                             uid = #{uid},
+                             number = #{number}
+                             where id = #{id}
+    </update>
+
+    <select id="getByPid" parameterType="int" resultType="OrderItem">
+        select * from orderitem where pid = #{pid}
+    </select>
+
+    <select id="getByUid" parameterType="int" resultType="OrderItem">
+        -- 获取oid为空的orderItem，因为oid不为空即代表已经下单
+        select * from orderitem where uid = #{uid} and oid is null
+    </select>
+
+</mapper>

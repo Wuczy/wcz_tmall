@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wcz.tmall.mapper.UserMapper">
+
+    <select id="list" resultType="User">
+        select * from user order by id desc
+    </select>
+
+    <select id="get" parameterType="int" resultType="User">
+        select * from user where id = #{id}
+    </select>
+
+    <insert id="add" parameterType="User"  keyProperty="id" useGeneratedKeys="true">
+        insert into user(name,password) values (#{name},#{password})
+    </insert>
+
+    <update id="update" parameterType="User">
+        update user set name = #{name},password = #{password} where id = #{id}
+    </update>
+
+    <delete id="delete" parameterType="int">
+        delete from user where id = #{id}
+    </delete>
+
+    <select id="like" parameterType="String" resultType="User">
+        select * from user where name like concat('%',#{name},'%') order by id desc
+    </select>
+
+    <select id="getByName" parameterType="String" resultType="User">
+        select * from user where name = #{name}
+    </select>
+
+</mapper>
