@@ -3,6 +3,11 @@
 .src/main/java/com/wcz/tmall/pojo/Category.java,3\d\3d484650e95b9bf2f9e3104fa2b5b79cb535249d
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+<<<<<<< HEAD
+=======
+Z
+*src/main/java/com/wcz/tmall/TestTmall.java,4\4\442feddc92b46049289f6a4b0a4b7f06820054de
+>>>>>>> 81cabca57e3d982238538de4a4139339b5885165
 b
 2src/main/webapp/WEB-INF/jsp/admin/listCategory.jsp,7\e\7ef76b8da5915cfcd447b1416244e206514989fb
 O
@@ -30,6 +35,7 @@ Z
 g
 7src/main/java/com/wcz/tmall/util/UploadedImageFile.java,2\5\25d088069ed9e0a6b5b749e1f48b5f6e2f8ee79e
 _
+<<<<<<< HEAD
 /src/main/java/com/wcz/tmall/util/ImageUtil.java,a\f\afc44e79263a224a07d25a91a35abfa14a1b27c5
 b
 2src/main/webapp/WEB-INF/jsp/admin/editCategory.jsp,8\f\8fd4899a35533594b76e4c88b9bdb77dffd6535d
@@ -229,3 +235,6 @@ _
 +src/main/webapp/WEB-INF/jsp/fore/bought.jsp,5\e\5e0c0c85f9b3384ecedec184aa45677fd460c740
 l
 <src/main/webapp/WEB-INF/jsp/include/fore/cart/boughtPage.jsp,1\6\1651a7ba08fc92d1637534040b976ee0997095ad
+=======
+/src/main/java/com/wcz/tmall/util/ImageUtil.java,a\f\afc44e79263a224a07d25a91a35abfa14a1b27c5
+>>>>>>> 81cabca57e3d982238538de4a4139339b5885165

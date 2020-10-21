@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 |squid:S1192B"^Define a constant instead of duplicating this literal "redirect:/admin_category_list" 3 times.(Ï¬Ûö8Þ‡¢Ý¾.
 lsquid:S4042J"IUse "java.nio.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8ø’ëÚ¾.
 ©%squid:RedundantThrowsDeclarationCheckT"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ªòí¯úÿÿÿÿ8¸¡Ý¾.
@@ -8,3 +9,15 @@ squid:S899J";Do something with the "boolean" value returned by "delete".(²Œ­ûÿ
 nsquid:S3252k"PUse static access with "com.github.pagehelper.page.PageMethod" for "offsetPage".(Ä§°›8è“¿¶À.
 ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.web.bind.annotation.RestController'.(±íþ¡þÿÿÿÿ8ää§ÌÂ.
 psquid:S11928"MDefine a constant instead of duplicating this literal "img/category" 3 times.(æÁšðüÿÿÿÿ8–¬µÝ¾.
+=======
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Ô÷è8–œÖ¿¾.
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ8ÐÊÔ¿¾.
+\squid:S37522">Add a "method" parameter to this "@RequestMapping" annotation.(±µÄ8¾ÊÂØ¾.
+\squid:S3752B">Add a "method" parameter to this "@RequestMapping" annotation.(óÓƒ°8õÜïÙ¾.
+\squid:S3752 ">Add a "method" parameter to this "@RequestMapping" annotation.(”»¬ì8Óþï½.
+lsquid:S4042G"IUse "java.nio.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8ø’ëÚ¾.
+]
+squid:S899G";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8ø’ëÚ¾.
+>>>>>>> 81cabca57e3d982238538de4a4139339b5885165
